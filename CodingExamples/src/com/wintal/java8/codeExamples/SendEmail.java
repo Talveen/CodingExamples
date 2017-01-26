@@ -1,3 +1,4 @@
+package com.wintal.java8.codeExamples;
 /*package com.wintal.codeExamples;
 
 //File Name SendEmail.java
